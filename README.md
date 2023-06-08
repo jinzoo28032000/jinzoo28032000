@@ -39,10 +39,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=jinzoo28032000&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
-
+### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://github-trophies.vercel.app/?username=jinzoo28032000" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=jinzoo28032000&theme=radical&margin-w=4&margin-h=4">
+</a>
 
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
