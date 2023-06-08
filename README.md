@@ -1,4 +1,24 @@
+### `$ whoami`
 
+*This personal github CV is automatically generated with [Github Profile Maker](https://github.com/jinzoo28032000/github-profile-maker)*
+
+### Hi there, I'm JinZoo ✔️
+
+> [![View count](https://visitcount.itsvg.in/api?id=jinzoo28032000&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=jinzoo28032000)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Java+Web+Coder;I'm+a+Blogger"></p>
+
+- 🇻🇳 : I'm from VietNam
+- 👀 : Here is [my personal website]https://congnhanlaptrinh.me/)
+- ✍️ : There is [my blog and articles](https://nguyenvietdung2803.blogspot.com/)
+- 📧 : Contact me at [Facebook](https://www.facebook.com/N.V.D.283/)
+- ❤️ : I'm passionate about:
+  - 🔐 Marketing Social Facebook Online
+  - 🪐 Operating Systems Support(Windows)
+  - 🖥️ Java Web Backend
+  - 📝 Writeups and Documenting
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/N.V.D.283) 
 
