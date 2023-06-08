@@ -108,4 +108,11 @@
   
   ---
 [![](https://visitcount.itsvg.in/api?id=jinzoo28032000&icon=5&color=11)](https://visitcount.itsvg.in)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- Đây là watermark cho tệp Markdown -->
+<!--- Bản quyền © 2023 JinZoo Blogger . Bảo lưu mọi quyền. -->
+<!--- Liên hệ: dungboy2803@gmail.com -->
+
   
