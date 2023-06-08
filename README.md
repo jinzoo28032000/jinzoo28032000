@@ -44,11 +44,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-[![](https://visitcount.itsvg.in/api?id=jinzoo28032000&icon=5&color=11)](https://visitcount.itsvg.in)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -108,4 +103,7 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jinzoo28032000) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  ---
+[![](https://visitcount.itsvg.in/api?id=jinzoo28032000&icon=5&color=11)](https://visitcount.itsvg.in)
   
