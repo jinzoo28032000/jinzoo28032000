@@ -1,6 +1,6 @@
 ### `$ whoami`
 
-*This personal github CV is automatically generated with [Github Profile Maker](https://github.com/jinzoo28032000/github-profile-maker)*
+*This personal github CV is automatically generated with [Github Profile Maker](https://github.com/jinzoo28032000/jinzoo28032000)*
 
 ### Hi there, I'm JinZoo ✔️
 
